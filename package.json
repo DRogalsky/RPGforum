@@ -1,0 +1,14 @@
+{
+  "name": "rpgforum",
+  "version": "1.0.0",
+  "description": "A forum website designed for playing pen and paper games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
